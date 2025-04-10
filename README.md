@@ -16,4 +16,11 @@ A simple and intuitive desktop application built with Python and Tkinter that he
 
 ## 🖥️ Screenshots
 
-*(Add screenshots here if you have any for UI preview)*
+### 📋 Main App Interface
+![Main UI](assests/main.png)
+
+### ➕ Adding Records
+![Add Records](assests/addRecords.png)
+
+### 💰 Current Balance 
+![Current Balance](assests/currentBalance.png)
